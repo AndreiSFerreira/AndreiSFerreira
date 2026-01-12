@@ -6,7 +6,7 @@
 
 # 👋 Olá, eu sou o Andrei Ferreira!
 
-🎓 Estudante de **Sistemas de Informação** — 1º semestre  
+🎓 Estudante de **Sistemas de Informação** — 2º semestre  
 💻 Explorando o mundo da **programação** e **tecnologia**  
 🐍 Focado em **Python**, e aprendendo **HTML** + **CSS** para o desenvolvimento web  
 
